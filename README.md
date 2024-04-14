@@ -1,8 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤗;+I'm+Javier+Lorenzo!❤️;" />
 </h1>
-    <h3 align="center">A "super cool" web maker from Spain</h3>
-<div style="display: flex; align-items: center; justify-content: center;">
+<h3 align="center">A "super cool" web maker from Spain</h3>
+<div style="display: flex;justify-content: space-between;">
   <div>  
 
   - 🌱 I'm currently learning **GraphQL&Express**
@@ -25,7 +25,7 @@
   <a href="https://t.me/javierlg2598" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-    <a href="mailto:rd8614196@gmail.com" target="_blank">
+  <a href="mailto:javierlg2598@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35" alt="gmail logo" />
   </a>
 </div>
@@ -60,9 +60,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </p>
-<br/>
-<br/>
-
 <br/>
 <br/>
 <div align="center">
