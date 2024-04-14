@@ -1,20 +1,20 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤗;+I'm+Javier+Lorenzo!❤️;" />
 </h1>
+<div align="center">
+  <img src="https://media1.tenor.com/m/jRFZFVM8bY0AAAAC/frieren-sleeping-butterflies.gif" />
+</div>
 <h3 align="center">A "super cool" web maker from Spain</h3>
-<div style="display: flex;justify-content: space-between;">
-  <div>  
+<div>  
 
-  - 🌱 I'm currently learning **GraphQL&Express**
+- 🌱 I'm currently learning **GraphQL&Express**
 
-  - 🤵 Working at <a href="https://github.com/Codeko" target="_blank">**Codeko**</a>
+- 🤵 Working at [**Codeko**](https://github.com/Codeko)
 
-  - 🚧 I'm currently working on a **dungeon and dragons fan app/api**
+- 🚧 I'm currently working on a **dungeon and dragons fan app/api**
 
-  - ⚡ Fun fact **I'm always dancing.**
+- ⚡ Fun fact **I'm always dancing.**
 
-  </div>
-  <img height="150" src="https://media1.tenor.com/m/jRFZFVM8bY0AAAAC/frieren-sleeping-butterflies.gif" />
 </div>
 <br/>
 <br/>
@@ -34,30 +34,18 @@
 <h3 align="left">🛠️ Languages-Frameworks-Tools 🛠️</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="30" alt="magento logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </p>
 <br/>
@@ -80,3 +68,4 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=javierl2598&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+<br/>
